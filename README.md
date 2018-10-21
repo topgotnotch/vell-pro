@@ -20,3 +20,6 @@ Run `git clone https://github.com/topgotnotch/vell-pro.git`
 - [Discordjs Community](https://discord.gg/bRCvFy9)
 
 - [Moonglow Code Base](https://github.com/FCCouncil/Moonglow)
+
+# License
+This project is currently placed under an MIT license.
